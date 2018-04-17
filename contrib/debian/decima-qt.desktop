@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Decima
+Comment=Decima P2P Cryptocurrency
+Comment[fr]=Decima, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Decima, eşten eşe kriptografik sanal para birimi
+Exec=decima-qt %u
+Terminal=false
+Type=Application
+Icon=decima128
+MimeType=x-scheme-handler/decima;
+Categories=Office;Finance;
