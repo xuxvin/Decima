@@ -3,8 +3,7 @@ Decima Core integration/staging repository
 
 ## BCT Thread ##
 
-
-
+https://bitcointalk.org/index.php?topic=3343918
 
 
 ## Coin Specs ##
@@ -14,6 +13,7 @@ Decima Core integration/staging repository
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
 <tr><td>Premine</td><td>300,000</td></tr>
+<tr><td>MN collateral</td><td>10,000</td></tr>
 </table>
 
 ## PoS Rewards Breakdown ##
