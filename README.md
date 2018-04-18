@@ -3,7 +3,7 @@ Decima Core integration/staging repository
 
 ## BCT Thread ##
 
-https://bitcointalk.org/index.php?topic=3343918
+https://bitcointalk.org/index.php?topic=3344063
 
 
 ## Coin Specs ##
